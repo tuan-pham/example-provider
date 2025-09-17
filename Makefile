@@ -1,4 +1,4 @@
-PACTICIPANT := "pactflow-example-provider"
+PACTICIPANT := "onboarding-example-provider"
 GITHUB_REPO := "pactflow/example-provider"
 PACT_CHANGED_WEBHOOK_UUID := "c76b601e-d66a-4eb1-88a4-6ebc50c0df8b"
 CONTRACT_REQUIRING_VERIFICATION_PUBLISHED_WEBHOOK_UUID := "8ce63439-6b70-4e9b-8891-703d5ea2953c"
